@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/projects/!svn/ver/1245/11067camcal3/Docs/json
+END
+TraccsServiceGetRebateHistory.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/projects/!svn/ver/1245/11067camcal3/Docs/json/TraccsServiceGetRebateHistory.js
+END
+TraccsServiceGetVialHistoryByCalculationId.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/projects/!svn/ver/1245/11067camcal3/Docs/json/TraccsServiceGetVialHistoryByCalculationId.js
+END
+TraccsServiceGetContractsByCalculationId.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/projects/!svn/ver/1245/11067camcal3/Docs/json/TraccsServiceGetContractsByCalculationId.js
+END
+TraccsServiceGetCalculation.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/projects/!svn/ver/1245/11067camcal3/Docs/json/TraccsServiceGetCalculation.js
+END
+TraccsServiceGetCurrentCalculationId.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/projects/!svn/ver/1245/11067camcal3/Docs/json/TraccsServiceGetCurrentCalculationId.js
+END
